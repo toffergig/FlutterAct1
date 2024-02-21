@@ -89,7 +89,7 @@ class MyApp extends StatelessWidget {
                         children: [
                           SizedBox(width: 8),
                           Icon(
-                            Icons.history_edu_outlined,
+                            Icons.history_outlined,
                             color: Colors.yellow,
                           ),
                           SizedBox(width: 8),
